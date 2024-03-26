@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Santiago Porres Restrepo and I'm a backend developer, from Colombia</h2>
+<h2 align="center">Hi 👋! My name is Santiago Porres Restrepo and I'm a fullstack developer, from Colombia</h2>
 
 ###
 
@@ -14,7 +14,8 @@
 ###
 
 # 💫 About Me:
-I'm currently working at AbaiGroup, using technologies like ASP.NET Core and VueJS.
+I'm currently working at the National Learning Service of Colombia, using technologies like PHP, MySQL, Liquibase and PostgreSQL.
+I have also worked with .NET and VueJS. You can review my completed and in progress projects.
 
 
 ## 🌐 Socials:
